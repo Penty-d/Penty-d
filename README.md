@@ -1,16 +1,15 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=80&letterSpacing=&duration=2500&pause=1000&color=DA299D&vCenter=true&width=500&height=100&lines=Princess)](https://git.io/typing-svg)
 
-<!--
-**Penty-d/Penty-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+幸せ・不幸せ を受け止めて，
 
-Here are some ideas to get you started:
+でもね 君からの恋心 解釈違い，
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+あたしの嫌いなとこばっか好きになる，
+
+欲望？また君のこと疑って，
+
+内蔵 解剖 あたし悪くない！
+
+くだらない 話し合い 君が譲るから，
+
+# 今日も明日も あたしお姫様みたい。
