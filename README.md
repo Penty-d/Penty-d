@@ -75,12 +75,9 @@
 
 ## 📊 GitHub 统计 / GitHub Stats
 
-<div align="center">
+[![Metrics](https://github.com/Penty-d/Penty-d/actions/workflows/metrics.yml/badge.svg)](https://github.com/Penty-d/Penty-d/actions/workflows/metrics.yml)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Penty-d&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Penty-d&layout=compact&theme=tokyonight&hide_border=true&locale=en" alt="Top Languages" />
-
-</div>
+![Metrics](github-metrics.svg)
 
 ---
 
