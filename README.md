@@ -13,7 +13,7 @@
 
 - 🏫 **福州大学** · 福大助手项目核心开发者，服务 **30,000+** 名师生
 - 💻 **Go** 后端工程师，专注于分布式架构、高可用服务、认证与权限体系
-- 🌱 正在深入 **Python / FastAPI / SQLAlchemy / JWT**
+- 🌱 正在深入 **Django / Flask / FastAPI/ Agent / Typescript / Vue**
 - 🎯 目标：写出稳定、高效、可维护的后端系统
 
 ---
