@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           output_action: commit
           committer_branch: main
           config_timezone: Asia/Shanghai
