@@ -39,8 +39,8 @@
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-333333?style=for-the-badge&logo=clickhouse&logoColor=FFCC01)
+<!--![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-333333?style=for-the-badge&logo=clickhouse&logoColor=FFCC01)-->
 
 **中间件 · Middleware**
 
