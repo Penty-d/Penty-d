@@ -82,10 +82,7 @@
 | 项目 / Project | 简介 / Description | 技术栈 / Stack |
 |------|------|------|
 | [**fzuhelper-server**](https://github.com/Penty-d/fzuhelper-server) | 福大助手服务端 · 分布式微服务，日均服务 30,000+ 师生 | Go · Hertz · Kitex · MySQL · Redis |
-| [**fzuhelper-app**](https://github.com/Penty-d/fzuhelper-app) | 福大助手客户端 · 跨平台移动端 | React Native · TypeScript |
 | [**qq-farm-bot-ui**](https://github.com/Penty-d/qq-farm-bot-ui) | QQ 经典农场自动化 · 机器人内核 + Web 控制台 | Vue 3 · Node.js · Socket.IO |
-| [**UserSystem_Go**](https://github.com/Penty-d/UserSystem_Go) | 用户管理系统 · 完整的认证与权限控制 | Go · Gin · JWT |
-| [**lynxdb**](https://github.com/Penty-d/lynxdb) | 轻量级 schema-on-read 分析引擎 | Rust |
 
 ---
 
