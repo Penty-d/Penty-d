@@ -53,19 +53,19 @@
 
 ![Vue](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-<!--![Pinia](https://img.shields.io/badge/pinia-%2335495e.svg?style=for-the-badge&logo=pinia&logoColor=%23FFD859)
-//![UnoCSS](https://img.shields.io/badge/UnoCSS-333333?style=for-the-badge&logo=unocss&logoColor=white)
-//![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)-->
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+<!--![Pinia](https://img.shields.io/badge/pinia-%2335495e.svg?style=for-the-badge&logo=pinia&logoColor=%23FFD859)
+![UnoCSS](https://img.shields.io/badge/UnoCSS-333333?style=for-the-badge&logo=unocss&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)-->
 
 **运维 · DevOps**
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-<!--![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)-->
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+<!--![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)-->
 
 ---
 
@@ -86,13 +86,6 @@
 | [**qq-farm-bot-ui**](https://github.com/Penty-d/qq-farm-bot-ui) | QQ 经典农场自动化 · 机器人内核 + Web 控制台 | Vue 3 · Node.js · Socket.IO |
 | [**UserSystem_Go**](https://github.com/Penty-d/UserSystem_Go) | 用户管理系统 · 完整的认证与权限控制 | Go · Gin · JWT |
 | [**lynxdb**](https://github.com/Penty-d/lynxdb) | 轻量级 schema-on-read 分析引擎 | Rust |
-
----
-
-## 📫 联系我 / Get in Touch
-
-[![Email](https://img.shields.io/badge/Email-2826259696%40qq.com-D14836?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:2826259696@qq.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Penty--d-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Penty-d)
 
 ---
 
