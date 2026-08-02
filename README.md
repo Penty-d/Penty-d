@@ -77,15 +77,6 @@
 
 ---
 
-## ✨ 项目精选 / Featured Projects
-
-| 项目 / Project | 简介 / Description | 技术栈 / Stack |
-|------|------|------|
-| [**fzuhelper-server**](https://github.com/Penty-d/fzuhelper-server) | 福大助手服务端 · 分布式微服务，日均服务 30,000+ 师生 | Go · Hertz · Kitex · MySQL · Redis |
-| [**qq-farm-bot-ui**](https://github.com/Penty-d/qq-farm-bot-ui) | QQ 经典农场自动化 · 机器人内核 + Web 控制台 | Vue 3 · Node.js · Socket.IO |
-
----
-
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=Penty-d&color=FF6E96&style=flat-square&label=Profile+Views)
